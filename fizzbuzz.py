@@ -7,7 +7,3 @@ def fizz_buzz(n):
         return "Five"
 
     return n
-
-
-for i in range(1, 101):
-    print(fizz_buzz(i))
